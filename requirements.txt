@@ -1,0 +1,4 @@
+# Core runtime uses Python stdlib.
+# Optional API dependencies for FastAPI mode:
+fastapi>=0.110
+uvicorn>=0.27
